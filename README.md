@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/n2gl3ee9olthk74r/branch/main?svg=true)](https://ci.appveyor.com/project/bombik815/ra-lifecycle-crud/branch/main)
 
 [CRUD](https://bombik815.github.io/ra-lifecycle-crud/)
 
